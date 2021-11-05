@@ -48,7 +48,7 @@ The reason I am adding "J" at the end of all of my commands is because for some 
 allows me to save the graph as a png, and then I use the command "explorer.exe ." to see all my saved files in the windows file explorer.
 
 Resources:
-[explorer.exe . found at](https://www.tenforums.com/tutorials/127857-access-wsl-linux-files-windows-10-a.html)
+[explorer.exe . found at](https://www.tenforums.com/tutorials/127857-access-wsl-linux-files-windows-10-a.html) \n
 [what entropy is](https://www.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/information-entropy)
 
 Christopher Burke - Extraction Options
