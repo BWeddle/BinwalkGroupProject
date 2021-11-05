@@ -13,6 +13,7 @@ Orion Radford
 
 Christopher Burke
 
+<img src="https://github.com/MerelyChris/ExtractionImages/blob/main/Snapchat-1192554281.jpg" width="300" height="200" />
 
 Binwalk is a tool that excells at searching through a file in order to find embedded files and executable code more specfically in firmware images.
 binwalk also uses the libmagic library(which is a library which supports the file command on a unix system and handles the loading of database files . I have also included a [link](https://filemagic.readthedocs.io/en/latest/guide.html#:~:text=libmagic%20is%20the%20library%20that,as%20the%20associated%20mime%20types) with more information on that if you find it interesting or what to know more!) Now before we can jump into binwalk you are going to want to download kali linux for your WSL (Windows subsystem for linux) which can be found [here](https://aka.ms/wsl-kali-linux-new) you can download binwalk on windows but it is reccomended you install it on linux but if you really want it on windows i have provided a [link](https://blog.eldernode.com/install-and-use-binwalk-on-windows/#:~:text=Binwalk%20can%20be%20installed%20and,you%20install%20it%20on%20Linux.) for that aswell.
