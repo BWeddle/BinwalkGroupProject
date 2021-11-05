@@ -9,7 +9,7 @@ Cameron Smith
 
 Ben Weddle
 
-<img src="https://github.com/BWeddle/Profile/blob/main/68467962_10156386715578457_5859892600856641536_n.jpg" width="300" height="200" />
+<img src="https://github.com/BWeddle/Profile/blob/main/68467962_10156386715578457_5859892600856641536_n.jpg" width="200" height="200" />
 
 Orion Radford
 
