@@ -44,4 +44,11 @@ Orion Radford - Raw Compression Options
 
 
 
-This is a helpful [link](https://tools.kali.org/forensics/binwalk) when looking for commands for binkwalk.
+These are some helpful links used to learn about binwalk 
+[link1](https://tools.kali.org/forensics/binwalk) when looking for commands for binkwalk.
+[link2](https://github.com/ReFirmLabs/binwalk/wiki/Quick-Start-Guide) helpful for getting started
+[link3](https://github.com/ReFirmLabs/binwalk) binwalk github
+[link4](https://www.linkedin.com/pulse/analyzing-embedded-files-executable-code-frimware-images-gurubaran-ks/) helpful linked in article
+[link5](https://gbhackers.com/analyzing-embedded-files-and-executable-code-with-frimware-images-binwalk/) another helpful article
+[link6](https://www.pentestpartners.com/security-blog/how-to-do-firmware-analysis-tools-tips-and-tricks/#binwalk) tips and tricks for binwal
+
